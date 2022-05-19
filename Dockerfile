@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.35.1
+From gcr.io/google.com/cloudsdktool/cloud-sdk
