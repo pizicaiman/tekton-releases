@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.35.1
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.35.1
