@@ -1,1 +1,1 @@
-From ghcr.io/distroless/busybox
+From mcr.microsoft.com/powershell:nanoserver
