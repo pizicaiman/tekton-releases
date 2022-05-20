@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.29.1
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.29.1
